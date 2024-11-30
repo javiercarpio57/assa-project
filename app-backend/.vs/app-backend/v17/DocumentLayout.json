@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4D88C7-2103-4266-A43C-39D936560434}|app-backend.csproj|c:\\users\\javie\\desktop\\projects\\assa-project\\app-backend\\dtos\\marcasautosgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4D88C7-2103-4266-A43C-39D936560434}|app-backend.csproj|solutionrelative:dtos\\marcasautosgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4D88C7-2103-4266-A43C-39D936560434}|app-backend.csproj|c:\\users\\javie\\desktop\\projects\\assa-project\\app-backend\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4D88C7-2103-4266-A43C-39D936560434}|app-backend.csproj|solutionrelative:controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4D88C7-2103-4266-A43C-39D936560434}|app-backend.csproj|c:\\users\\javie\\desktop\\projects\\assa-project\\app-backend\\services\\marcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4D88C7-2103-4266-A43C-39D936560434}|app-backend.csproj|solutionrelative:services\\marcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarcasAutosGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\Dtos\\MarcasAutosGetDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MarcasAutosGetDto.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\Dtos\\MarcasAutosGetDto.cs",
+              "RelativeToolTip": "Dtos\\MarcasAutosGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:44:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcasAutosService.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\Services\\MarcasAutosService.cs",
+              "RelativeDocumentMoniker": "Services\\MarcasAutosService.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\Services\\MarcasAutosService.cs",
+              "RelativeToolTip": "Services\\MarcasAutosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:36:07.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarcasAutosController.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\Controllers\\MarcasAutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarcasAutosController.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\projects\\assa-project\\app-backend\\Controllers\\MarcasAutosController.cs",
+              "RelativeToolTip": "Controllers\\MarcasAutosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:29:57.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

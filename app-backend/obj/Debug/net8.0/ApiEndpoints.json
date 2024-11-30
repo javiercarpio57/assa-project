@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "app_backend.Controllers.MarcasAutosController",
+    "Method": "Get",
+    "RelativePath": "api/MarcasAutos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
