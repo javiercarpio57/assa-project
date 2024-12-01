@@ -1,5 +1,5 @@
 import React from 'react';
-import { WeatherData } from '../pages/api/weather';
+import { WeatherData } from '../../pages/api/weather';
 
 interface WeatherDetailsProps {
 	weather: WeatherData;
@@ -8,13 +8,13 @@ interface WeatherDetailsProps {
 const WeatherDetails: React.FC<WeatherDetailsProps> = ({ weather }) => {
 	return (
 		<section className="flex justify-center">
-			<div className="flex flex-col shadow-2xl rounded-lg w-full md:max-w-80 p-8">
+			<div className="flex flex-col shadow-2xl rounded-lg w-full md:max-w-96 p-8">
 				<div className="flex flex-col border-b border-gray-900/10 pb-6">
 					<div className="flex justify-between">
-						<div>
+						<div className="w-24 h-24">
 							<img
-								width={92}
-								height={92}
+								width="100%"
+								height="100%"
 								src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`}
 								alt="Weather Icon"
 							/>

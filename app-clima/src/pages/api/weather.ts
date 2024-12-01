@@ -1,17 +1,12 @@
 import axios, { AxiosResponse } from 'axios';
 
-const API_KEY = '1fbb6689cbf53863d8b826c73de86bee';
+const API_KEY = process.env.WEATHER_API_KEY;
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 interface Main {
 	temp: number;
-	feels_like: number;
-	temp_min: number;
-	temp_max: number;
 	pressure: number;
 	humidity: number;
-	sea_level: number;
-	grnd_level: number;
 }
 
 interface Description {
@@ -21,7 +16,6 @@ interface Description {
 
 interface Wind {
 	speed: number;
-	deg: number;
 }
 
 export interface WeatherData {
@@ -40,7 +34,6 @@ export const GetWeather = async (city: string): Promise<WeatherData> => {
 				units: 'metric',
 			},
 		});
-		console.log(response.data);
 
 		return response.data;
 	} catch (e) {
